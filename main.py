@@ -1,2 +1,2 @@
 print("Hello guys")
-print("nachuj")
+print("nevim co")
